@@ -5,9 +5,6 @@ public class Prog31
     public static void main(String args[]) throws IOException
     {
         int num1, num2, num3;
-        num1 = 0;
-        num2 = 0;
-        num3 = 0;
         String value;
         BufferedReader UserInput = new BufferedReader(new InputStreamReader(System.in));
         
